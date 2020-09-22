@@ -1,2 +1,2 @@
 # GM
-Repository voor het BRO Grondwatermonitoring domein
+Repository voor het BRO Grondwatermonitoring domein.
